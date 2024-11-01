@@ -1,0 +1,19 @@
+[1] "WHE Factor: 0.0548994541168213 Min: 0.0548993349075317 Max: 0.0548994541168213 Failures: 10 Successes: 14"
+Time difference of 1.477218 mins
+Time difference of 14.09445 mins
+
+[1] "RSE Factor: 0.124534606933594 Min: 0.124530792236328 Max: 0.124534606933594 Failures: 10 Successes: 9"
+Time difference of 15.18015 mins
+Time difference of 27.86146 mins
+
+[1] "MHE Factor: 0.062255859375 Min: 0.062225341796875 Max: 0.062255859375 Failures: 10 Successes: 6"
+Time difference of 28.7895 mins
+Time difference of 41.5246 mins
+
+[1] "BME Factor: 3.8970947265625 Min: 3.89706420898438 Max: 3.8970947265625 Failures: 10 Successes: 7"
+Time difference of 42.6213 mins
+Time difference of 55.22912 mins
+
+[1] "HPE Factor: 3.09064865112305 Min: 3.09064674377441 Max: 3.09064865112305 Failures: 10 Successes: 11"
+Time difference of 56.54477 mins
+Time difference of 1.15248 hours
